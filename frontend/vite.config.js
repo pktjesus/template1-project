@@ -5,7 +5,7 @@ import react from '@vitejs/plugin-react-swc'
 export default defineConfig({
   plugins: [react()],
   // base: import.meta.env.VITE_PUBLIC_URL,
-  base: '/boilerplate1-practice',
+  base: '/template1-project',
   server: {
     proxy: {
       "/api": {
