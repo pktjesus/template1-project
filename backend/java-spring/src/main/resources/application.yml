@@ -2,7 +2,7 @@ server.port: 9090
 
 spring:
   security:
-    user: # spring security 기본 아이디와 암호
+    user: # spring security 기본 id와 암호
       name: user
       password: 1234
   h2:
