@@ -1,0 +1,18 @@
+테이블 이름은 snake case -> ex)  chat_room  
+  * (테이블 이름 앞에 팀 이름을 뜻하는 prefix는 붙일 필요 없음)
+      db로 구분이 가능하기 때문
+
+rdb 제공(mariadb10.5(3305), mysql5.7(3307))
+강현국팀 : thejoeun1.iptime.org:3305/dbkhk
+              thejoeun1.iptime.org:3307/dbkhk
+안재이팀 : thejoeun1.iptime.org:3305/dbaji
+              thejoeun1.iptime.org:3307/dbaji
+원영호팀 : thejoeun1.iptime.org:3305/dbwyh
+              thejoeun1.iptime.org:3307/dbwyh
+김현재팀 : thejoeun1.iptime.org:3305/dbkhj
+              thejoeun1.iptime.org:3307/dbkhj
+
+자바 파일 이름은 pascal case -> ex) ChatRoom
+
+자바 멤버 변수 및 메소드 이름은 camel case -> ex) chatRoom
+
