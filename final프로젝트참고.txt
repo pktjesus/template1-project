@@ -2,15 +2,23 @@
   * (테이블 이름 앞에 팀 이름을 뜻하는 prefix는 붙일 필요 없음)
       db로 구분이 가능하기 때문
 
-rdb 제공(mariadb10.5(3305), mysql5.7(3307))
-강현국팀 : thejoeun1.iptime.org:3305/dbkhk
-              thejoeun1.iptime.org:3307/dbkhk
-안재이팀 : thejoeun1.iptime.org:3305/dbaji
-              thejoeun1.iptime.org:3307/dbaji
-원영호팀 : thejoeun1.iptime.org:3305/dbwyh
-              thejoeun1.iptime.org:3307/dbwyh
-김현재팀 : thejoeun1.iptime.org:3305/dbkhj
-              thejoeun1.iptime.org:3307/dbkhj
+rdb 제공(mariadb10.5(학원)(3305), mysql5.7.17(학원)(3307), mysql5.7.17(선생님)(3308))
+참고) mariadb를 쓰더라도 application.yml의 datasource에 아래 내용을 사용하여 접속 가능
+  url: jdbc:mysql://localhost:3306/mydb1
+  driver-class-name: com.mysql.cj.jdbc.Driver
+
+강현국팀 : thejoeun1.iptime.org:3305/dbkhk    id: iddbkhk    pw: rkd4gus9rnr
+              thejoeun1.iptime.org:3307/dbkhk     id: iddbkhk    pw: rkd4gus9rnr
+              61.105.89.34:3308/dbkhk                 id: iddbkhk    pw: rkd4gus9rnr
+안재이팀 : thejoeun1.iptime.org:3305/biscuit      id: iddbaji    pw: dks7wo2dl
+              thejoeun1.iptime.org:3307/biscuit      id: iddbaji    pw: dks7wo2dl
+              61.105.89.34:3308/biscuit                  id: iddbaji    pw: dks7wo2dl
+원영호팀 : thejoeun1.iptime.org:3305/drinkdb   id: iddbwyh   pw: dnjs1dud6gh
+              thejoeun1.iptime.org:3307/drinkdb    id: iddbwyh   pw: dnjs1dud6gh
+              61.105.89.34:3308/drinkdb                id: iddbwyh   pw: dnjs1dud6gh
+김현재팀 : thejoeun1.iptime.org:3305/dbkhj     id: iddbkhj    pw: rla3gus0wo
+              thejoeun1.iptime.org:3307/dbkhj     id: iddbkhj   pw: rla3gus0wo
+              61.105.89.34:3308/dbkhj                id: iddbkhj   pw: rla3gus0wo
 
 자바 파일 이름은 pascal case -> ex) ChatRoom
 
