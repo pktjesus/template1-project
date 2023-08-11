@@ -10,10 +10,10 @@ rdb 제공(mariadb10.5(학원)(3305), mysql5.7.17(학원)(3307), mysql5.7.17(선
 강현국팀 : thejoeun1.iptime.org:3305/dbkhk    id: iddbkhk    pw: rkd4gus9rnr
               thejoeun1.iptime.org:3307/dbkhk     id: iddbkhk    pw: rkd4gus9rnr
               61.105.89.34:3308/dbkhk                 id: iddbkhk    pw: rkd4gus9rnr
-안재이팀 : thejoeun1.iptime.org:3305/biscuit      id: iddbaji    pw: dks7wo2dl
+안재이팀(완료) : thejoeun1.iptime.org:3305/biscuit      id: iddbaji    pw: dks7wo2dl
               thejoeun1.iptime.org:3307/biscuit      id: iddbaji    pw: dks7wo2dl
               61.105.89.34:3308/biscuit                  id: iddbaji    pw: dks7wo2dl
-원영호팀 : thejoeun1.iptime.org:3305/drinkdb   id: iddbwyh   pw: dnjs1dud6gh
+원영호팀(완료) : thejoeun1.iptime.org:3305/drinkdb   id: iddbwyh   pw: dnjs1dud6gh
               thejoeun1.iptime.org:3307/drinkdb    id: iddbwyh   pw: dnjs1dud6gh
               61.105.89.34:3308/drinkdb                id: iddbwyh   pw: dnjs1dud6gh
 김현재팀 : thejoeun1.iptime.org:3305/dbkhj     id: iddbkhj    pw: rla3gus0wo
